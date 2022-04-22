@@ -1,5 +1,8 @@
 _repo: The-Crater_67694
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67694-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Gore Browne, Robert
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54400'
     url: http://www.gutenberg.org/2009/agents/54400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67694#The-Crater
 gutenberg_issued: '2022-03-23'
 identifiers:
   gutenberg: '67694'
